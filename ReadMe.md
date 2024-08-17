@@ -77,6 +77,11 @@
 - 이 알고리즘은 시뮬레이션 환경에서 테스트되었습니다. 실제 환경에서 사용할 경우 추가적인 안전 조치가 필요할 수 있습니다.
 - 고속 버전(`lidar_auto_drive_2.py`)을 사용할 때는 특히 주의가 필요합니다.
 
+
+## 라이선스
+
+이 프로젝트는 [MIT 라이선스](https://opensource.org/licenses/MIT)에 따라 라이선스가 부여됩니다.
+
 <br/>
 <br/>
 
@@ -151,6 +156,3 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 
 
-## 라이선스
-
-이 프로젝트는 [MIT 라이선스](https://opensource.org/licenses/MIT)에 따라 라이선스가 부여됩니다.
